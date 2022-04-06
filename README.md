@@ -2,7 +2,7 @@
 
 Thank you for viewing our poster *"Using smartphone survey and GPS data to inform smoking cessation intervention delivery"* at the NIH National Cancer Institute's 2021 New Grantee Workshop. 
 
-Here you can find photos of geofences for different times of day for the same individual (will insert links when maps are corrected). 
+Here you can find photos of geofences for different times of day for the same individual. 
 - [6 am to 8:59 am](https://github.com/aluken95/NCI/blob/main/100mbuffer_Block-level_minmaxnorm_6to9%20with%201320sqft%20kde_calendarwithpointsoutside_cigreportsonly.jpg)
 - [9 am to 11:59 am](https://github.com/aluken95/NCI/blob/main/100mbuffer_Block-level_minmaxnorm_9to12%20with%201320sqft%20kde_calendarwithpointsoutside_cigreportsonly.jpg)
 - [12 pm to 2:59 pm](https://github.com/aluken95/NCI/blob/main/100mbuffer_Block-level_minmaxnorm_12to15%20with%201320sqft%20kde_calendarwithpointsoutside_cigreportsonly.jpg)
